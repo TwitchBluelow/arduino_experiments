@@ -1,0 +1,8 @@
+{
+    "port": "COM5",
+    "board": "arduino:avr:mega",
+    "output": "../build",
+    "sketch": "lernen\\lernen.ino",
+    "programmer": "avrispmkii",
+    "configuration": "cpu=atmega2560"
+}
